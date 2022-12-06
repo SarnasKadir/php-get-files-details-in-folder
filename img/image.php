@@ -1,0 +1,1 @@
+<?php echo "<h1>I am an PHP file</h1>";?>
